@@ -1,0 +1,16 @@
+C:\Users\Student1\Documents\LARA\LARA\LARA\TIENDA\TIENDA\bin\TIENDA.dll
+C:\Users\Student1\Documents\LARA\LARA\LARA\TIENDA\TIENDA\bin\TIENDA.pdb
+C:\Users\Student1\Documents\LARA\LARA\LARA\TIENDA\TIENDA\obj\Debug\TIENDA.dll
+C:\Users\Student1\Documents\LARA\LARA\LARA\TIENDA\TIENDA\obj\Debug\TIENDA.pdb
+C:\Users\Student1\Documents\lara\TIENDA\TIENDA\obj\Debug\TIENDA.dll
+C:\Users\Student1\Documents\lara\TIENDA\TIENDA\bin\TIENDA.dll
+C:\Users\Student1\Documents\lara\TIENDA\TIENDA\bin\TIENDA.pdb
+C:\Users\Student1\Documents\lara\TIENDA\TIENDA\obj\Debug\TIENDA.pdb
+C:\Users\Student1\Documents\lara\lara\TIENDA\TIENDA\bin\TIENDA.dll
+C:\Users\Student1\Documents\lara\lara\TIENDA\TIENDA\bin\TIENDA.pdb
+C:\Users\Student1\Documents\lara\lara\TIENDA\TIENDA\obj\Debug\TIENDA.dll
+C:\Users\Student1\Documents\lara\lara\TIENDA\TIENDA\obj\Debug\TIENDA.pdb
+C:\Users\vhdez\OneDrive\Escritorio\tienda\TIENDA\TIENDA\TIENDA\bin\TIENDA.dll
+C:\Users\vhdez\OneDrive\Escritorio\tienda\TIENDA\TIENDA\TIENDA\bin\TIENDA.pdb
+C:\Users\vhdez\OneDrive\Escritorio\tienda\TIENDA\TIENDA\TIENDA\obj\Debug\TIENDA.dll
+C:\Users\vhdez\OneDrive\Escritorio\tienda\TIENDA\TIENDA\TIENDA\obj\Debug\TIENDA.pdb
